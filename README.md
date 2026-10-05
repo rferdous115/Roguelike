@@ -1,1 +1,2 @@
-# Roguelike
+- [X] Create a simple map with a text editor using '#' characters and your '@' that's about 20x20.
+- [X] Display map with FTXUI. (2026-10-05)
